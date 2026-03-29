@@ -881,7 +881,7 @@ I (.\lib\inc\stm32f10x_tim.h)(0x612B9224)
 I (.\lib\inc\stm32f10x_usart.h)(0x612B9224)
 I (.\lib\inc\stm32f10x_wwdg.h)(0x612B9224)
 I (.\lib\inc\misc.h)(0x612B9224)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\Hardware\usart.h)(0x612B9224)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
@@ -902,7 +902,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\MagneticSensorI2C.c)(0x61B84BC4)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\magneticsensori2c.o --omf_browse .\objects\magneticsensori2c.crf --depend .\objects\magneticsensori2c.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -951,7 +951,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\MagneticSensorSPI.c)(0x61BE9EAB)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\magneticsensorspi.o --omf_browse .\objects\magneticsensorspi.crf --depend .\objects\magneticsensorspi.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1000,7 +1000,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\Sensor.c)(0x64264C2F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\sensor.o --omf_browse .\objects\sensor.crf --depend .\objects\sensor.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1049,7 +1049,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\foc_utils.c)(0x62AAE16E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\foc_utils.o --omf_browse .\objects\foc_utils.crf --depend .\objects\foc_utils.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1098,7 +1098,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\FOCMotor.c)(0x62AAE415)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\focmotor.o --omf_browse .\objects\focmotor.crf --depend .\objects\focmotor.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1147,7 +1147,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\BLDCMotor.c)(0x64263E49)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\bldcmotor.o --omf_browse .\objects\bldcmotor.crf --depend .\objects\bldcmotor.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1196,7 +1196,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\PID.c)(0x64263D6E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\pid.o --omf_browse .\objects\pid.crf --depend .\objects\pid.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1245,7 +1245,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\lowpass_filter.c)(0x64263DE9)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\lowpass_filter.o --omf_browse .\objects\lowpass_filter.crf --depend .\objects\lowpass_filter.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1294,7 +1294,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\CurrentSense.c)(0x61BAF2D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\currentsense.o --omf_browse .\objects\currentsense.crf --depend .\objects\currentsense.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1343,7 +1343,7 @@ I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
 F (.\SimpleFOC\InlineCurrentSense.c)(0x61C09584)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\inlinecurrentsense.o --omf_browse .\objects\inlinecurrentsense.crf --depend .\objects\inlinecurrentsense.d)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\user\stm32f10x_it.h)(0x61BABEA7)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
@@ -1391,7 +1391,7 @@ I (.\SimpleFOC\lowpass_filter.h)(0x626221B9)
 I (.\SimpleFOC\pid.h)(0x61AED3BC)
 I (.\SimpleFOC\InlineCurrentSense.h)(0x61BAE8D5)
 I (.\SimpleFOC\CurrentSense.h)(0x612B9221)
-F (.\user\main.c)(0x69C793E0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+F (.\user\main.c)(0x69C7A6C5)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I .\lib\inc -I .\startup -I .\Hardware -I .\SimpleFOC -I .\user-I.\RTE\_STM32-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
 I (.\startup\stm32f10x.h)(0x612B9221)
 I (.\startup\core_cm3.h)(0x612B9221)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588B8344)
@@ -1421,14 +1421,14 @@ I (.\lib\inc\stm32f10x_usart.h)(0x612B9224)
 I (.\lib\inc\stm32f10x_wwdg.h)(0x612B9224)
 I (.\lib\inc\misc.h)(0x612B9224)
 I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588B8344)
-I (user\MyProject.h)(0x637335B1)
+I (user\MyProject.h)(0x69C79CEB)
 I (user\stm32f10x_it.h)(0x61BABEA7)
 I (.\Hardware\usart.h)(0x612B9224)
 I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588B8344)
 I (.\Hardware\delay.h)(0x64263CA4)
 I (.\Hardware\timer.h)(0x61BD5A67)
 I (.\Hardware\adc.h)(0x61BAFB7C)
-I (.\user\MyProject.h)(0x637335B1)
+I (.\user\MyProject.h)(0x69C79CEB)
 I (.\Hardware\iic.h)(0x612B9224)
 I (.\Hardware\spi2.h)(0x61B849EB)
 I (.\SimpleFOC\Sensor.h)(0x61C094B1)
